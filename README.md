@@ -1,6 +1,6 @@
 # Povray projects
 
-Project: [Electrocatalytic nanomotors]
+Project: [Electrocatalytic nanomotors](https://github.com/AmirNi2016/Povray/tree/master/Electrocatalytic%20Nanomotors): used `spline` and `clock` for povray animation code. The final video (combined with experiental initial frame) is 
 
 ![](nanomotor.png)
 
